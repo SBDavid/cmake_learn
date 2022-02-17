@@ -1,0 +1,3 @@
+/Users/jiaweitang/002-learn/cmake_learn/Step1_build/CMakeFiles/rebuild_cache.dir
+/Users/jiaweitang/002-learn/cmake_learn/Step1_build/CMakeFiles/edit_cache.dir
+/Users/jiaweitang/002-learn/cmake_learn/Step1_build/CMakeFiles/Tutorial.dir
